@@ -1,0 +1,3 @@
+Masukkan foto kelinci Hachi Rabbit kamu di folder ini.
+Contoh: fuzzy-mochi.jpg, rex-boba.jpg, dst.
+Lalu ubah field image di script.js menjadi assets/rabbits/nama-file.jpg
